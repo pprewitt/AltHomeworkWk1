@@ -46,7 +46,6 @@ p {
 
 .hero img {
     
-   
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
@@ -96,7 +95,6 @@ p {
     max-width: 150px;
 }
 
-
 .content-subsections {
     margin-bottom: 20px;
     padding: 50px;
@@ -106,7 +104,6 @@ p {
     color: #ffffff;
 }
 
-
 .content-subsections img {
     max-height: 200px;
 }
@@ -115,7 +112,6 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 
 .footer {
     padding: 30px;
